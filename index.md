@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: architect
 ---
 
 ## Welcome to this sample portfolio!
